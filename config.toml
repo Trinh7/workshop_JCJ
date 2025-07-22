@@ -1,3 +1,7 @@
+baseURL = "https://Trinh7.github.io/workshop_JCJ"
+relativeURLs = true
+canonifyURLs = true
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
