@@ -1,0 +1,3 @@
+@echo off
+echo Running Hugo server with draft mode and ignoring errors...
+D:\hugo server --quiet
