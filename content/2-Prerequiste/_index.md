@@ -31,7 +31,7 @@ The AWS CloudFormation template is used to set up lab resources in the AWS Regio
 
 5. Select the template you just downloaded, and then select Next.
 
-![FWD](/images/own-account-upload-cfn.png)
+![FWD](/images/anh1.png)
 
 6. Give the stack a name, such as polly-serverless-stack
 
@@ -39,7 +39,7 @@ The AWS CloudFormation template is used to set up lab resources in the AWS Regio
 
 8. Under Capabilities and Transformations, acknowledge all.
 
-![FWD](/images/own-account-iam.png)
+![FWD](/images/anh2.png)
 
 9. To deploy the template, select Submit.
 
